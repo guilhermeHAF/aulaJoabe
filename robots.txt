@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /secreto/
+
+Sitemap: https://guilhermehaf.github.io/aulaJoabe/sitemap.xml
