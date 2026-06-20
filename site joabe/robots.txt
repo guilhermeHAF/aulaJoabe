@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /secreto/
+
+# Substitua https://SEU-DOMINIO pelo domínio real ao publicar o site
+# Exemplo: https://guilhermehaf.github.io/aulaJoabe/sitemap.xml
+Sitemap: https://SEU-DOMINIO/sitemap.xml
